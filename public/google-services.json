@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617478703147",
+    "project_id": "atrium-food",
+    "storage_bucket": "atrium-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617478703147:android:4059878b219937b4d6026e",
+        "android_client_info": {
+          "package_name": "com.atrium.foods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617478703147-8p5adei9ftljft7s3umn9u75vprqp9s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atrium.foods",
+            "certificate_hash": "2d63fd5ae219a80bfe5e3e40a6a1df4d8a7c3fbe"
+          }
+        },
+        {
+          "client_id": "617478703147-hr51t4moqnf75jcesunh9qkcm24cb58s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhBpM4kp0AVfjkVqzAq-pi5XFZy27a-SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617478703147-hr51t4moqnf75jcesunh9qkcm24cb58s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

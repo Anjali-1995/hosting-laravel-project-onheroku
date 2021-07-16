@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "atrium-food",
+  "private_key_id": "526572b7a4824c1c68a38dcfa4359b6063e3c1bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCJWLBPu2cR8Q49\nDWtRlKQwmXAwnHvvpySmwFLA1o36MbneKpCe3pqpuGhyWTWp0iR8GR5jjhlGaKW/\nQqOrvPq3IWoovshvxYZDKLW50qjcAMm309HwdLFEwYwzJPeuI+5clt3tHkH3w+8t\nNO4yuuXfiHvyOlzYMFDL1muq8Ume2kFNtPe5GDc9lTgsXjhFJ7kTNfieJVtuGj0c\n5HBGxY6MCMtvjh6xBPWxRQfs40ZPqsaI8LX9krlU+ebUVAl5VFQySCbSPp/lVYJH\ngpouLUW6u4BoOGFBcsKDTQgi9mQvnUiZre3IJG1vH7RI/VXKuIZzBFPWGIn8raXY\nNpAgjqx9AgMBAAECggEAA6l7gfsgMDVG/ByLr2NdzihSx0KhqoeNWmwN7zOJTSt4\nP9LPHYoX6Gb3U5BkKU2ZSKNiBD65fWW0gNkynfvUjExCyI7vSM0+dQBbE0PpQEk9\n5HESy7nnMOS5BUAUe1TDIHFEisCTLhtpf1rfvJ1V6O2trsBQBQYJkXXIU+8WpG3P\nujRRCnSzkMgxpKkunqxX53gdOwtff7Jb4QKpbrOTGym2djoHTH5odH34eT+uft9O\n8GjbWuSkbrWWGoD6LzbaedAuDn1ZT0LbHiEgm5gBCT8w7boimCUKfz/OxG0P8B8M\ngfGNLIKvbqj8li13PcfJo2ehH2iy8FUQTiqVdc96bQKBgQDCDA5gPGNUx5j5v/Md\nOPhNgfKwSPoW6fyUkVVsACkuRDnYr7dvvCsLDyvDK+gSozxKc5eG/oMSvjBm/2Tv\n/626E7XHY0j1g6QiKAp2dLq7KB04IrlJ+TjX1zR6V6Xj11zmBj79O0wCwhALAELP\nAV+Cc9r1UIpAXdKCm/k2q8YL+wKBgQC1MllvuuudeZDh6crRsyzYVGcSxvFoOS+B\njOpIMz333K6vP96MAxriNZC0AXMFPR4j/QAG3Jqa/jc6fkAw275wiDFKF6SPt26D\nsjNSS3Nx+2S9R/LIEhpLjm2j/8mit4KKsIyxImqqLbe5HJgYbvNta/HxZn5xjYJ3\n4Wx9hrIH5wKBgQCjbn4JJbNPa1B3QOikux++P+1D9iLUe7wk8QbuEHCerA3AZ7Zq\noCPsi5mDJw6t69fSqOp9YwzIE3E2vnGoBUKvjvwx83g2d+ocbnbpb8T57n41kmFW\nYVYzy+hCBmIMtI1kmuwgYfnR9NqIOW8LZA+qEqPeqzfVoG+1W2KZXjFOUwKBgCfz\njAi4nA7CqRFGrTODYBXqtjdLqhqi0TitS1LUCYvHGrUFThps7NaHnPozf5reGPEy\nbXkV1vjpqF+7Sof7S4ggX03I3L3bYgCjn/E7NZ8iINojLQK0CxwxsTcBxQGdmKjf\nuIWt4vrWzbWA+oAYpo+vx07EnIiI/QVVrMgYlNRtAoGAbdlgQeIZxc2k8BVRQBKz\nef8COTNFMQNvG5C9+2Vqb5qx7V8CUpQO/B0ppBhMLVipvmDk3zRiMns7MkhKEGtD\nCpmNh7S0jJ/UuiLQ1AH/9OFqx9Wng4h+vpj/Vt/U5cgJosYdkd1RmpF+jCpjXA1J\nmLEPziv/Y0ubZ5Prvjy2hM4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xwyzn@atrium-food.iam.gserviceaccount.com",
+  "client_id": "101883693638982823568",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xwyzn%40atrium-food.iam.gserviceaccount.com"
+}
